@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is KEERTHIVASAN M(RDX) and I'm a ..., from CHENNAI INDIA</h2>
+<h2 align="left">Hi 👋! My name is KEERTHIVASAN M(RDX) and I'm a from CHENNAI INDIA</h2>
 
 ###
 
@@ -22,6 +22,17 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="63" height="35" alt="telegram logo"  />
   </a>
 </div>
+
+
+  # 💫 About Me:
+🔭 I’m currently working on website security and diving deep into protecting digital spaces.<br>
+👯  I’m eager to collaborate on security projects and share insights on best practices.<br>
+🤝I’m seeking help with CNN (Convolutional Neural Network) projects to enhance my machine learning skills.<br>
+🌱  I’m actively learning about networking to strengthen my understanding of how systems communicate and secure data.<br>
+💬 Feel free to ask me about cybersecurity—whether it's about threat detection, mitigation strategies, or the latest in security technology.<br>
+⚡ Fun fact " i am student" 
+
+
 
 ###
 
@@ -70,8 +81,12 @@
 
 <img src="https://raw.githubusercontent.com/rdxkeerthi/rdxkeerthi/output/snake.svg" alt="Snake animation" />
 
-###
 
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=rdxkeerthi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+###
 <div align="center">
   <a href="https://open.spotify.com/user/l6iz7mcjij5oa9utyez8ieumy">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=l6iz7mcjij5oa9utyez8ieumy&count=5" alt="Spotify recently played"  />
