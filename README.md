@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is KEERTHIVASAN M(RDX) and I'm a from CHENNAI INDIA</h2>
+<h2 align="left">Hi 👋! My name is KEERTHIVASAN M(RDX) and I'm  from CHENNAI INDIA</h2>
 
 ###
 
