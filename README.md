@@ -2,13 +2,38 @@
   <img src="https://profile-counter.glitch.me/rdxkeerthi/count.svg?"  />
 </div>
 
-###
 
-<h2 align="left">Hi 👋! My name is KEERTHIVASAN M(RDX) and I'm  from CHENNAI INDIA</h2>
+  # 💫 About Me:
+### 👋 Hi, I’m Keerthivasan (aka @rdxkeerthi)
 
-###
+🔭 I’m currently working on building **LCRD-based satellite communication systems**, focusing on secure, high-speed laser data transmission using embedded Linux platforms.<br>
 
-<div align="left">
+🤝 I’m seeking collaboration with **Embedded Hardware Developers** to push forward real-time satellite systems and mission-critical defense tech.<br>
+
+🌱 I’m currently learning and experimenting with:<br>
+- Firmware development for embedded systems  <br>
+- Building advanced **Cybersecurity tools**  <br>
+- Designing secure **Cloud & IoT architectures**  <br>
+- Linux kernel modules and embedded system security <br> 
+
+👨‍💻 I work with technologies like:<br>
+- Raspberry Pi 5 + Buildroot Linux  <br>
+- IBM One Linux  <br>
+- Blockchain (PoA)  <br>
+- AI/ML (CNN, Mediapipe)  <br>
+- Custom Linux networking & RF/laser integration <br> 
+
+💬 Feel free to reach out about:<br>
+- Satellite & defense communication projects  <br>
+- Embedded Linux development  <br>
+- Cloud security strategies  <br>
+- Real-time threat detection systems  <br>
+
+⚡ Fun fact: I’m a student who believes **real projects > perfect grades**. <br>
+
+### Contact:
+
+<div align="center">
   <a href="https://www.instagram.com/_._kxrtxhi_._/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="35" alt="instagram logo"  />
   </a>
@@ -24,19 +49,9 @@
 </div>
 
 
-  # 💫 About Me:
-🔭 I’m currently working on website security and diving deep into protecting digital spaces.<br>
-👯  I’m eager to collaborate on security projects and share insights on best practices.<br>
-🤝I’m seeking help with CNN (Convolutional Neural Network) projects to enhance my machine learning skills.<br>
-🌱  I’m actively learning about networking to strengthen my understanding of how systems communicate and secure data.<br>
-💬 Feel free to ask me about cybersecurity—whether it's about threat detection, mitigation strategies, or the latest in security technology.<br>
-⚡ Fun fact " i am student" 
+### Preferred Technologies
 
-
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
@@ -64,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+### GitHub activity badges
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rdxkeerthi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
