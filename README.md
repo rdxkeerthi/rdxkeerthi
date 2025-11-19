@@ -115,7 +115,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdxkeerthi&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Activity Graph" />
 </div>
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/rdxkeerthi/rdxkeerthi/output/snake.svg" alt="Contribution Snake" />
