@@ -1,162 +1,145 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/rdxkeerthi/count.svg?"  />
-</div>
+<h1 align="center">Hi 👋, I'm Keerthivasan (aka @rdxkeerthi)</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rdxkeerthi&label=Profile%20views&color=0e75b6&style=flat" alt="rdxkeerthi" />
+</p>
 
+## 🚀 About Me
 
-  # 💫 About Me:
-### 👋 Hi, I’m Keerthivasan (aka @rdxkeerthi)
+- 🔭 I'm currently working on [LCRD-based satellite communication systems](https://github.com/rdxkeerthi/SatelliteProject.git)
+- 👯 I'm looking to collaborate on [next-gen SIEM platform](https://github.com/rdxkeerthi/SIEM-Plus.git)
 
-🔭 I’m currently working on building **LCRD-based satellite communication systems**, focusing on secure, high-speed laser data transmission using embedded Linux platforms.<br>
+## 🌱 Currently Learning
+- Firmware development for embedded systems
+- Building advanced **Cybersecurity tools**
+- Designing secure **Cloud & IoT architectures**
+- Linux kernel modules and embedded system security
 
-🤝 I’m seeking collaboration with **Embedded Hardware Developers** to push forward real-time satellite systems and mission-critical defense tech.<br>
+##  Technologies
+- Raspberry Pi 5 + Buildroot Linux
+- IBM One Linux
+- Blockchain (PoA)
+- AI/ML (CNN, Mediapipe)
+- Custom Linux networking & RF/laser integration
 
-🌱 I’m currently learning and experimenting with:<br>
-- Firmware development for embedded systems  <br>
-- Building advanced **Cybersecurity tools**  <br>
-- Designing secure **Cloud & IoT architectures**  <br>
-- Linux kernel modules and embedded system security <br> 
-
-👨‍💻 I work with technologies like:<br>
-- Raspberry Pi 5 + Buildroot Linux  <br>
-- IBM One Linux  <br>
-- Blockchain (PoA)  <br>
-- AI/ML (CNN, Mediapipe)  <br>
-- Custom Linux networking & RF/laser integration <br> 
-
-💬 Feel free to reach out about:<br>
-- Satellite & defense communication projects  <br>
-- Embedded Linux development  <br>
-- Cloud security strategies  <br>
-- Real-time threat detection systems  <br>
-
-⚡ Fun fact: I’m a student who believes **real projects > perfect grades**. <br>
-
-### Contact:
+## � Let's Connect
 
 <div align="center">
   <a href="https://www.instagram.com/_._kxrtxhi_._/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="63" height="35" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="Instagram" />
   </a>
-  <a href="keerthivasan.sud.saveetha@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="63" height="35" alt="gmail logo"  />
+  <a href="mailto:keerthivasan.sud.saveetha@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="30" alt="Gmail" />
   </a>
   <a href="https://wa.me/+916374598827" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="63" height="35" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="50" height="30" alt="WhatsApp" />
   </a>
   <a href="https://t.me/Rdxkeerthi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="63" height="35" alt="telegram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="50" height="30" alt="Telegram" />
   </a>
 </div>
 
+## 🛠️ Tech Stack
 
-### Preferred Technologies
+### Languages & Frameworks
+<div align="center">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/django.svg" alt="Django" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
+</div>
 
+### Frontend & Design
+<div align="center">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/sass-original.svg" alt="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/tailwindcss-icon.svg" alt="Tailwind" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+</div>
 
-<p align="left">
+### DevOps & Tools
+<div align="center">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Bash" width="40" height="40"/>
+</div>
 
-  <!-- AWS -->
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-  </a>
+### Databases & Cloud
+<div align="center">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
+</div>
 
-  <!-- C -->
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
+## 📊 GitHub Stats
 
-  <!-- CSS3 -->
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  </a>
-
-  <!-- Django -->
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40" />
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40" />
-  </a>
-
-  <!-- HTML5 -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-  </a>
-
-  <!-- Linux -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-  </a>
-
-  <!-- MongoDB -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" />
-  </a>
-
-  <!-- Pandas -->
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" />
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" />
-  </a>
-
-  <!-- PyTorch -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40" />
-  </a>
-
-  <!-- TensorFlow -->
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" />
-  </a>
-
-</p>
-
-
-
-### GitHub activity badges
+<h3 align="left">Stars</h3>
+<div align="center">
+  <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rdxkeerthi&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rdxkeerthi&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+</div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rdxkeerthi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rdxkeerthi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rdxkeerthi&theme=vue-dark" alt="GitHub Streak" />
 </div>
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=rdxkeerthi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-###
+<h3 align="center">Statistics</h3>
 
-<br clear="both">
+<div align="center">
+  <a href="https://github.com/rdxkeerthi">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rdxkeerthi&theme=react" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rdxkeerthi&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rdxkeerthi&theme=2077" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rdxkeerthi&theme=ocean_dark" height="180em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rdxkeerthi&theme=tokyonight" height="180em" />
+  </a>
+</div>
 
-<img src="https://raw.githubusercontent.com/rdxkeerthi/rdxkeerthi/output/snake.svg" alt="Snake animation" />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-
-### 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=rdxkeerthi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-###
+
+## 📈 Activity Graph
+
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rdxkeerthi&theme=react-dark&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rdxkeerthi/rdxkeerthi/output/snake.svg" alt="Contribution Snake" />
+</div>
+
+## 🎵 Now Playing
+
+<div align="center" style="margin: 20px 0">
   <a href="https://open.spotify.com/user/l6iz7mcjij5oa9utyez8ieumy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=l6iz7mcjij5oa9utyez8ieumy&count=5" alt="Spotify recently played"  />
+    <img 
+      src="https://spotify-recently-played-readme.vercel.app/api?user=l6iz7mcjij5oa9utyez8ieumy&count=5" 
+      alt="Spotify Recently Played" 
+      style="border-radius: 12px; max-width: 100%;"
+    />
   </a>
 </div>
 
-###
+## ☕ Support Me
 
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@rdxkeerthi&theme=default" alt="Layout with last medium posts"  />
+<div align="center" style="margin: 20px 0 40px">
+  <a href="https://www.buymeacoffee.com/rdxkeerthi" style="margin-right: 15px; display: inline-block;">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+  </a>
+  <a href="https://ko-fi.com/rdxkeerthi" style="margin-left: 15px; display: inline-block;">
+    <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Support me on Ko-fi" />
+  </a>
 </div>
-
-###
