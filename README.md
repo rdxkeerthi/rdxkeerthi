@@ -32,7 +32,7 @@
 ## Let's Connect
 
 <div align="center">
-  <a href="https://www.instagram.com/_._kxrtxhi_._/" target="_blank">
+  <a href="https://www.instagram.com/_kx_v_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="30" alt="Instagram" />
   </a>
   <a href="mailto:keerthivasanm.student@saveetha.ac.in">
